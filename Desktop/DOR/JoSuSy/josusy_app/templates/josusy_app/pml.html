@@ -1,0 +1,22 @@
+{% extends "josusy_app/base.html" %}
+{% block body_block %}
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- This page is used for user to submitting job using PBS scheduler in multiple cores and the executable file is on local device. -->
+<div class="jumbotron">
+
+  <form action="" method="post" enctype="multipart/form-data" >
+    <!-- form1 is refrenced from views.py containing PML function. as_p is used to represent form as paragraph  -->
+    <!-- csrf_token is a kind of bot-catcher. -->
+    {{ form1.as_p }}
+    {% csrf_token %}
+    Walltime: <input type="number" name="hour" required placeholder="Hours" min="0" title="Hours for which your process should stay on the cluster!" style="width:20%" /> &nbsp  &nbsp &nbsp &nbsp
+              <input type="number" name="min" required placeholder="Minutes" min="0" max="60"  title="Minutes for which your process should stay on the cluster!" style="width:20%" /></br></br>
+    Executable File: <input type="file" name="myfile" required /> </br></br>
+    Input for Executable File: <input type="file" name="ipfile" /> </br></br>
+
+    <a href="{% url 'SelectSubmissionType' %}"><button type="button" class="btn btn-outline-success">< Back</button></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+    <input type="submit" name="submit" value="Submit" class="btn btn-primary" />
+
+  </form>
+</div>
+{% endblock %}

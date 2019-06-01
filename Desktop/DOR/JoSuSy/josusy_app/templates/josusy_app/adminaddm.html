@@ -1,0 +1,15 @@
+{% extends "josusy_app/abase.html" %}
+{% block body_block %}
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- Add user to the cluster on admin side. -->
+<div class="jumbotron">
+  <h1>Add member to cluster from here</h1>
+  <form method="post">
+    <!-- form1 is refrenced from views.py containing AdmnAddM function. as_p is used to represent form as paragraph  -->
+    <!-- csrf_token is a kind of bot-catcher. -->
+    {% csrf_token %}
+    {{ user_form.as_p }}
+    <input type="submit" name="" class="btn btn-primary" value="Add user" />
+  </form>
+</div>
+{% endblock %}

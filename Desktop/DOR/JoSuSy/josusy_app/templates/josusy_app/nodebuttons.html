@@ -1,0 +1,73 @@
+<!-- This button-list is implemented on the SLURM scheduler job submission pages of our site. This is just a reference for understanding its functioning -->
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<style>
+	.fakeimg {
+		height: 200px;
+		background: #aaa;
+	  }
+	.addMore{
+		border: none;
+		width: 32px;
+		height: 32px;
+		background-color: #eee;
+		transition: all ease-in-out 0.2s;
+		cursor: pointer;
+	}
+	.addMore:hover{
+		border: 1px solid #888;
+		background-color: #ddd;
+	}
+	</style>
+
+	<script>
+		function changeColor(){
+
+		}
+    </script>
+
+    </head>
+
+    <body onload="changeColor()">
+
+	    <!--<form action="" method="post" name="form1">-->
+
+			<script>
+				document.write("<table style=\"position: absolute; top:20%; left:60%; border-spacing:5px; \" >");
+				var count =0;
+				for(var i=0;i<7;i++){
+					document.write("<tr>");
+					for(var j=0; j<4; j++){
+						document.write("<td> <button type=\"button\" title=\"\" class=\"addMore\" name=\""+count+++"\" style=\"border-radius:50%; border:0px; width:50px; height:50px\"></button> </td> ");
+					}
+					document.write("</tr>");
+				}
+        var arr_for_btn = [];
+  			var st = [1,0,1,0,1,0,1,0,2,0,1,2,2,0,2,0,1,0,2,0,1,0,1,0,1,0,1,0];
+
+  			for(var i=0; i<28; i++){
+  				if(st[i]==0){
+  					Array.from(document.getElementsByName(i)).map(function(button) {
+  					   button.style.backgroundColor="32cd32";
+  					   button.title="Available";
+  					})
+  				}
+  				else if(st[i]==1){
+  					Array.from(document.getElementsByName(i)).map(function(button) {
+  					   button.style.backgroundColor="#f26f00";
+  					   button.title="Busy";
+  					})
+  				}
+  				else{
+  					Array.from(document.getElementsByName(i)).map(function(button) {
+  					   button.style.backgroundColor="black";
+  					   button.title="Some cores available";
+  					})
+  				}
+  			}
+			</script>
+
+        </form>
+	</body>
+</html>

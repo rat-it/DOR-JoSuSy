@@ -1,0 +1,17 @@
+{% extends "josusy_app/abase.html" %}
+{% block body_block %}
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- Admin home page. -->
+<div class="jumbotron">
+  <!-- from views.py containing AHome function is used to call this page. -->
+  <!-- csrf_token is a kind of bot-catcher. -->
+    {% csrf_token %}
+    <h3>Hi, you can perform following tasks at present!</h3>
+  </br></br><a href="{% url 'Aaddm' %}"><button type="button" class="btn btn-success">Add users to cluster</button></a> &nbsp &nbsp &nbsp &nbsp
+    <!--<a href="http://127.0.0.1:8000/alogv/"><button type="button" class="btn btn-info">View System Log</button></a> &nbsp &nbsp &nbsp &nbsp
+    -->
+    <a href="{% url 'Alogv' %}"><button type="button" class="btn btn-info">View System Log</button></a> &nbsp &nbsp &nbsp &nbsp
+    <a href="{% url 'DUF' %}"><button type="button" class="btn btn-warning">Remove user from cluster</button></a></br></br>
+
+</div>
+{% endblock %}

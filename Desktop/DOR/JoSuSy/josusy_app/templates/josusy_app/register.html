@@ -1,0 +1,16 @@
+{% extends 'josusy_app/base.html' %}
+{% block body_block %}
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- Useless page to test new functionality of Django about user-authentication -->
+
+<div class="jumbotron">
+  <h1>Register here</h1>
+  <form method="post">
+    {% csrf_token %}
+    {{ user_form.as_p }}
+    <input type="submit" name="" value="LOGIN" />
+  </form>
+  {% endif %}
+</div>
+
+{% endblock %}

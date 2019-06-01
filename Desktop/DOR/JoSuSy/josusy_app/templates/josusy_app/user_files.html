@@ -1,0 +1,12 @@
+{% extends "josusy_app/base.html" %}
+{% block body_block %}
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- This page shows the id of submitted job. -->
+
+    <div class="jumbotron">
+      <!-- file_content is refrenced from views.py containing display,ReadScript function. -->
+
+      {{ file_content | linebreaks }}
+
+    </div>
+{% endblock %}

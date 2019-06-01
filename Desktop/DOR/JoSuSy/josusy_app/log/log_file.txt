@@ -1,0 +1,877 @@
+INFO Site accessed from 10.20.4.93 at  2019-05-22 16:34:48,608
+INFO pi logged in from 10.20.4.93 at  2019-05-22 16:35:01,044
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'josusy_app/squeue' not found. 'josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.93 at  2019-05-22 16:35:02,507
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'josusy_app/squeue' not found. 'josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.93 at  2019-05-22 16:35:14,954
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for '/josusy_app/squeue' not found. '/josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.93 at  2019-05-22 16:40:24,835
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'squeue' not found. 'squeue' is not a valid view function or pattern name.",) on 10.20.4.93 at  2019-05-22 16:43:36,125
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:44:52,763
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'josusy_app/squeue' not found. 'josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.93 at  2019-05-22 16:45:52,468
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'josusy_app/squeue' not found. 'josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.93 at  2019-05-22 16:45:53,336
+INFO rat logged in from 10.20.4.35 at  2019-05-22 16:45:58,146
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'josusy_app/squeue' not found. 'josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.35 at  2019-05-22 16:45:59,581
+CRITICAL An exception of type NoReverseMatch occurred. Arguments:
+("Reverse for 'josusy_app/squeue' not found. 'josusy_app/squeue' is not a valid view function or pattern name.",) on 10.20.4.35 at  2019-05-22 16:46:11,870
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-22 16:49:54,307
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-22 16:50:00,496
+INFO pi logged out from 10.20.4.93 at  2019-05-22 16:51:18,812
+INFO Site accessed from 10.20.4.93 at  2019-05-22 16:51:24,574
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:51:41,523
+INFO pi logged in from 10.20.4.35 at  2019-05-22 16:52:02,228
+INFO pi logged out from 10.20.4.35 at  2019-05-22 16:53:07,908
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:53:13,693
+INFO rat logged in from 10.20.4.35 at  2019-05-22 16:53:21,466
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.35 at  2019-05-22 16:53:25,571
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:53:37,933
+INFO rat logged in from 10.20.4.35 at  2019-05-22 16:53:45,316
+INFO rat logged out from 10.20.4.35 at  2019-05-22 16:55:22,552
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:55:28,437
+INFO rat logged in as admin from 10.20.4.35 at  2019-05-22 16:55:45,709
+INFO   rat  viewed logs from  10.20.4.35  at   2019-05-22 16:55:49,528
+INFO rat logged out from 10.20.4.35 at  2019-05-22 16:56:04,513
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:56:12,832
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:56:28,676
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:56:45,143
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:57:01,013
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:57:16,833
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:57:35,446
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:57:51,396
+INFO Site accessed from 10.20.4.35 at  2019-05-22 16:58:07,633
+INFO Site accessed from 10.20.4.93 at  2019-05-22 17:01:38,813
+INFO Site accessed from 10.20.4.93 at  2019-05-22 17:01:54,833
+INFO r43 logged in from 10.20.4.93 at  2019-05-22 17:05:31,889
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-22 17:06:21,233
+INFO Site accessed from 10.20.4.93 at  2019-05-22 17:06:42,393
+INFO Site accessed from 10.20.4.93 at  2019-05-22 17:06:58,416
+INFO r43 logged in from 10.20.4.93 at  2019-05-22 17:07:13,401
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-22 17:07:35,663
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-22 17:07:49,330
+INFO Site accessed from 10.20.4.93 at  2019-05-22 17:10:57,216
+INFO pi logged in from 10.20.4.93 at  2019-05-22 17:11:04,216
+INFO pi logged out from 10.20.4.93 at  2019-05-22 17:11:31,612
+INFO Site accessed from 10.20.4.93 at  2019-05-22 17:11:37,793
+INFO r43 logged in from 10.20.4.93 at  2019-05-22 17:12:03,174
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-22 17:12:29,296
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-22 17:18:42,819
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-22 17:19:56,158
+INFO Site accessed from 10.20.4.93 at  2019-05-23 11:13:39,113
+INFO pi logged in from 10.20.4.93 at  2019-05-23 11:13:49,461
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-23 11:14:15,511
+INFO pi logged out from 10.20.4.93 at  2019-05-23 11:14:52,671
+INFO Site accessed from 10.20.4.93 at  2019-05-23 11:14:58,754
+INFO Site accessed from 10.20.4.93 at  2019-05-23 11:15:14,628
+INFO Site accessed from 10.20.4.93 at  2019-05-23 11:27:27,163
+INFO pi logged in from 10.20.4.93 at  2019-05-23 11:27:35,660
+CRITICAL An exception of type TypeError occurred. Arguments:
+('argument should be string, bytes or integer, not _io.TextIOWrapper',) on 10.20.4.93 at  2019-05-23 11:27:57,467
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-23 11:30:58,768
+CRITICAL An exception of type TypeError occurred. Arguments:
+('argument should be string, bytes or integer, not _io.TextIOWrapper',) on 10.20.4.93 at  2019-05-23 11:33:23,454
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-23 11:39:18,083
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-23 11:39:25,257
+INFO pi logged out from 10.20.4.93 at  2019-05-23 11:40:11,685
+INFO Site accessed from 10.20.4.93 at  2019-05-23 11:40:17,384
+INFO r43 logged in from 10.20.4.93 at  2019-05-23 11:40:37,375
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-23 11:41:17,721
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-23 11:41:37,114
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-23 11:41:42,675
+INFO r43 logged out from 10.20.4.93 at  2019-05-23 11:42:15,930
+INFO Site accessed from 10.20.4.93 at  2019-05-23 11:42:22,144
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:11:21,244
+INFO pi logged in from 10.20.4.93 at  2019-05-23 17:11:30,263
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-23 17:12:45,687
+INFO pi logged out from 10.20.4.93 at  2019-05-23 17:14:13,817
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:14:21,977
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:14:37,847
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:14:54,223
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:15:12,614
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:15:28,607
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:15:44,683
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:16:00,623
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:16:16,453
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:16:32,503
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:16:48,213
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:17:01,417
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:17:17,303
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:17:33,214
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:17:49,133
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:18:05,106
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:18:20,883
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:18:36,923
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:18:52,777
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:19:08,527
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:19:24,383
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:19:40,537
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:19:58,103
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:20:14,237
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:20:30,363
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:20:46,413
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:21:02,407
+INFO Site accessed from 10.20.4.93 at  2019-05-23 17:21:18,217
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:18:21,713
+INFO pi logged in from 10.20.4.93 at  2019-05-24 09:18:36,413
+INFO pi logged out from 10.20.4.93 at  2019-05-24 09:19:45,569
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:19:51,443
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-24 09:20:05,394
+INFO   rat  viewed logs from  10.20.4.93  at   2019-05-24 09:20:11,397
+INFO rat logged out from 10.20.4.93 at  2019-05-24 09:20:36,794
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:20:44,013
+INFO r43 logged in from 10.20.4.93 at  2019-05-24 09:21:03,299
+CRITICAL An exception of type UnboundLocalError occurred. Arguments:
+("local variable 'file_con' referenced before assignment",) on 10.20.4.93 at  2019-05-24 09:21:20,368
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 09:21:56,888
+INFO r43 logged out from 10.20.4.93 at  2019-05-24 09:22:02,288
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:22:08,914
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:22:24,754
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:22:42,816
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:22:59,438
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:43:11,997
+INFO pi logged in from 10.20.4.93 at  2019-05-24 09:43:21,716
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-24 09:43:46,557
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-24 09:44:15,382
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 09:44:37,726
+INFO pi logged out from 10.20.4.93 at  2019-05-24 09:44:44,843
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:44:51,013
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:45:06,783
+INFO r43 logged in from 10.20.4.93 at  2019-05-24 09:45:21,604
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-24 09:45:36,765
+INFO r43 logged out from 10.20.4.93 at  2019-05-24 09:45:45,753
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:45:51,813
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:46:07,537
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:49:15,073
+INFO pi logged in from 10.20.4.93 at  2019-05-24 09:49:23,270
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-24 09:49:43,114
+INFO pi logged out from 10.20.4.93 at  2019-05-24 09:49:49,877
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:49:56,905
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:50:12,759
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:57:17,043
+INFO pi logged in from 10.20.4.93 at  2019-05-24 09:57:24,098
+INFO pi logged out from 10.20.4.93 at  2019-05-24 09:58:05,292
+INFO Site accessed from 10.20.4.93 at  2019-05-24 09:58:10,886
+INFO r43 logged in from 10.20.4.93 at  2019-05-24 09:58:26,517
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 09:59:04,502
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 09:59:51,454
+INFO r43 logged out from 10.20.4.93 at  2019-05-24 10:06:34,664
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:06:40,353
+INFO pi logged in from 10.20.4.93 at  2019-05-24 10:06:48,025
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 10:07:07,511
+INFO pi logged out from 10.20.4.93 at  2019-05-24 10:08:03,365
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:08:09,513
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:08:25,387
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:08:41,816
+INFO pi logged in from 10.20.4.93 at  2019-05-24 10:08:48,385
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 10:09:08,259
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 10:09:14,737
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 10:14:08,572
+INFO pi logged out from 10.20.4.93 at  2019-05-24 10:14:15,374
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:14:21,034
+INFO pi logged in from 10.20.4.93 at  2019-05-24 10:14:28,134
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 10:14:37,047
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 10:17:17,001
+INFO pi submitted job number Submitted batch job 262
+ from 10.20.4.93 at  2019-05-24 10:20:14,027
+INFO pi submitted job number Submitted batch job 264
+ from 10.20.4.93 at  2019-05-24 10:22:09,002
+INFO pi submitted job number Submitted batch job 265
+ from 10.20.4.93 at  2019-05-24 10:28:41,098
+INFO pi submitted job number Submitted batch job 267
+ from 10.20.4.93 at  2019-05-24 10:32:54,602
+INFO pi logged out from 10.20.4.93 at  2019-05-24 10:34:09,770
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:34:15,326
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:34:31,133
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:34:47,526
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:35:03,296
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:35:19,186
+INFO Site accessed from 10.20.4.93 at  2019-05-24 10:35:35,553
+INFO pi logged in from 10.20.4.93 at  2019-05-24 10:35:36,593
+INFO pi submitted job number Submitted batch job 271
+ from 10.20.4.93 at  2019-05-24 10:36:16,935
+INFO pi submitted job number Submitted batch job 275
+ from 10.20.4.93 at  2019-05-24 10:45:23,393
+INFO pi submitted job number Submitted batch job 280
+ from 10.20.4.93 at  2019-05-24 10:51:44,318
+INFO pi submitted job number Submitted batch job 283
+ from 10.20.4.93 at  2019-05-24 10:55:45,737
+INFO pi submitted job number Submitted batch job 284
+ from 10.20.4.93 at  2019-05-24 10:56:06,251
+INFO pi submitted job number Submitted batch job 288
+ from 10.20.4.93 at  2019-05-24 10:58:48,901
+INFO pi submitted job number Submitted batch job 292
+ from 10.20.4.93 at  2019-05-24 11:09:13,594
+INFO pi logged out from 10.20.4.93 at  2019-05-24 11:10:20,506
+INFO Site accessed from 10.20.4.93 at  2019-05-24 11:10:26,263
+INFO r43 logged in from 10.20.4.93 at  2019-05-24 11:10:36,828
+INFO r43 submitted job number Submitted batch job 294
+ from 10.20.4.93 at  2019-05-24 11:11:27,933
+INFO r43 submitted job number Submitted batch job 295
+ from 10.20.4.93 at  2019-05-24 11:12:24,873
+INFO r43 submitted job number Submitted batch job 296
+ from 10.20.4.93 at  2019-05-24 11:16:21,973
+INFO r43 logged out from 10.20.4.93 at  2019-05-24 11:21:31,574
+INFO Site accessed from 10.20.4.93 at  2019-05-24 11:21:37,387
+WARNING prashantk tried loging in from 10.20.4.93 at  2019-05-24 11:21:49,938
+WARNING prashantk tried loging in from 10.20.4.93 at  2019-05-24 11:22:13,768
+INFO pi logged in from 10.20.4.93 at  2019-05-24 11:33:35,752
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 11:33:49,961
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 11:36:15,090
+INFO pi logged in from 10.20.4.93 at  2019-05-24 11:37:13,843
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 11:38:46,602
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 11:38:47,975
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 11:43:49,073
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'a' is not defined",) on 10.20.4.93 at  2019-05-24 11:51:51,258
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 11:54:59,504
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 11:57:04,512
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 11:58:05,374
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 11:58:31,749
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 10.20.4.93 at  2019-05-24 12:11:34,542
+INFO rat logged in from 127.0.0.1 at  2019-05-27 04:50:57,714
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 127.0.0.1 at  2019-05-27 04:51:06,157
+INFO Site accessed from 127.0.0.1 at  2019-05-27 04:51:17,492
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 127.0.0.1 at  2019-05-27 04:55:22,283
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 127.0.0.1 at  2019-05-27 05:06:18,212
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'form' is not defined",) on 127.0.0.1 at  2019-05-27 05:08:52,927
+INFO Site accessed from 10.20.4.93 at  2019-05-27 10:58:31,744
+INFO pi logged in from 10.20.4.93 at  2019-05-27 10:58:43,811
+INFO pi logged out from 10.20.4.93 at  2019-05-27 10:59:28,918
+INFO Site accessed from 10.20.4.93 at  2019-05-27 10:59:34,673
+INFO r43 logged in from 10.20.4.93 at  2019-05-27 10:59:49,235
+INFO r43 logged out from 10.20.4.93 at  2019-05-27 11:00:17,803
+INFO Site accessed from 10.20.4.93 at  2019-05-27 11:00:23,903
+INFO rat logged in from 127.0.0.1 at  2019-05-27 06:17:17,350
+INFO rat logged out from 127.0.0.1 at  2019-05-27 08:09:12,559
+INFO Site accessed from 127.0.0.1 at  2019-05-27 08:09:12,801
+INFO Site accessed from 10.20.4.93 at  2019-05-28 15:26:23,186
+INFO pi logged in from 10.20.4.93 at  2019-05-28 15:26:38,199
+INFO pi logged out from 10.20.4.93 at  2019-05-28 15:27:43,271
+INFO Site accessed from unknown at  2019-05-28 15:27:46,283
+INFO Site accessed from 10.20.4.93 at  2019-05-28 15:27:50,054
+INFO rat logged in from unknown at  2019-05-28 15:27:55,691
+INFO Site accessed from 10.20.4.93 at  2019-05-28 15:28:05,954
+INFO rat logged out from unknown at  2019-05-28 15:31:02,043
+INFO Site accessed from unknown at  2019-05-28 15:31:08,223
+INFO Site accessed from unknown at  2019-05-28 15:31:23,906
+INFO Site accessed from unknown at  2019-05-28 15:31:40,143
+INFO Site accessed from unknown at  2019-05-28 15:31:56,003
+INFO Site accessed from unknown at  2019-05-28 15:32:11,864
+INFO Site accessed from unknown at  2019-05-28 15:32:16,659
+INFO Site accessed from unknown at  2019-05-28 15:32:16,830
+INFO Site accessed from unknown at  2019-05-28 15:32:16,893
+INFO Site accessed from unknown at  2019-05-28 15:32:16,983
+INFO Site accessed from unknown at  2019-05-28 15:32:17,182
+INFO Site accessed from unknown at  2019-05-28 15:32:33,476
+INFO Site accessed from unknown at  2019-05-28 15:32:49,598
+INFO Site accessed from unknown at  2019-05-28 15:33:05,464
+INFO Site accessed from unknown at  2019-05-28 15:33:21,388
+INFO Site accessed from unknown at  2019-05-28 15:33:37,154
+INFO Site accessed from unknown at  2019-05-28 15:33:53,004
+INFO Site accessed from unknown at  2019-05-28 15:34:09,003
+INFO Site accessed from unknown at  2019-05-28 15:34:24,863
+INFO Site accessed from unknown at  2019-05-28 15:34:40,743
+INFO Site accessed from unknown at  2019-05-28 15:34:56,736
+INFO Site accessed from unknown at  2019-05-28 15:35:12,498
+INFO Site accessed from unknown at  2019-05-28 15:35:28,374
+INFO Site accessed from unknown at  2019-05-28 15:35:44,263
+INFO Site accessed from unknown at  2019-05-28 15:36:00,226
+INFO Site accessed from unknown at  2019-05-28 15:36:16,093
+INFO Site accessed from unknown at  2019-05-28 15:36:32,103
+INFO Site accessed from unknown at  2019-05-28 15:36:47,884
+INFO Site accessed from unknown at  2019-05-28 15:37:03,723
+INFO Site accessed from unknown at  2019-05-28 15:37:19,534
+INFO Site accessed from unknown at  2019-05-28 15:37:35,486
+INFO Site accessed from unknown at  2019-05-28 15:37:51,346
+INFO Site accessed from unknown at  2019-05-28 15:38:07,123
+INFO Site accessed from unknown at  2019-05-28 15:38:22,963
+INFO Site accessed from unknown at  2019-05-28 15:38:38,838
+INFO Site accessed from unknown at  2019-05-28 15:38:54,753
+INFO Site accessed from unknown at  2019-05-28 15:39:10,534
+INFO Site accessed from unknown at  2019-05-28 15:39:26,264
+INFO Site accessed from unknown at  2019-05-28 15:39:42,104
+INFO Site accessed from unknown at  2019-05-28 15:39:57,993
+INFO Site accessed from unknown at  2019-05-28 15:40:13,744
+INFO Site accessed from unknown at  2019-05-28 15:40:29,644
+INFO Site accessed from unknown at  2019-05-28 15:40:45,655
+INFO Site accessed from unknown at  2019-05-28 15:41:01,354
+INFO Site accessed from unknown at  2019-05-28 15:41:17,268
+INFO Site accessed from unknown at  2019-05-28 15:41:33,094
+INFO Site accessed from unknown at  2019-05-28 15:41:49,125
+INFO Site accessed from unknown at  2019-05-28 15:42:04,896
+INFO Site accessed from unknown at  2019-05-28 15:42:23,003
+INFO Site accessed from unknown at  2019-05-28 15:42:38,766
+INFO Site accessed from unknown at  2019-05-28 15:42:57,476
+INFO Site accessed from unknown at  2019-05-28 15:43:13,403
+INFO Site accessed from unknown at  2019-05-28 15:43:29,346
+INFO Site accessed from unknown at  2019-05-28 15:43:45,204
+INFO Site accessed from unknown at  2019-05-28 15:44:01,007
+INFO Site accessed from unknown at  2019-05-28 15:44:16,896
+INFO Site accessed from unknown at  2019-05-28 15:44:32,606
+INFO Site accessed from unknown at  2019-05-28 15:44:48,467
+INFO Site accessed from unknown at  2019-05-28 15:45:04,436
+INFO Site accessed from unknown at  2019-05-28 15:45:20,404
+INFO Site accessed from unknown at  2019-05-28 15:45:36,283
+INFO Site accessed from unknown at  2019-05-28 15:45:52,163
+INFO Site accessed from unknown at  2019-05-28 15:46:08,069
+INFO Site accessed from unknown at  2019-05-28 15:46:24,123
+INFO Site accessed from unknown at  2019-05-28 15:46:40,123
+INFO Site accessed from unknown at  2019-05-28 15:46:56,016
+INFO Site accessed from unknown at  2019-05-28 15:47:11,843
+INFO Site accessed from unknown at  2019-05-28 15:47:27,773
+INFO Site accessed from unknown at  2019-05-28 15:47:43,663
+INFO Site accessed from unknown at  2019-05-28 15:47:59,617
+INFO Site accessed from unknown at  2019-05-28 15:48:15,536
+INFO Site accessed from unknown at  2019-05-28 15:48:31,306
+INFO Site accessed from unknown at  2019-05-28 15:48:47,113
+INFO Site accessed from unknown at  2019-05-28 15:49:02,893
+INFO Site accessed from unknown at  2019-05-28 15:49:18,633
+INFO Site accessed from unknown at  2019-05-28 15:49:34,733
+INFO Site accessed from unknown at  2019-05-28 15:49:50,415
+INFO Site accessed from unknown at  2019-05-28 15:50:06,182
+INFO Site accessed from unknown at  2019-05-28 15:50:21,983
+INFO Site accessed from unknown at  2019-05-28 15:50:37,673
+INFO Site accessed from unknown at  2019-05-28 15:50:53,883
+INFO Site accessed from unknown at  2019-05-28 15:51:09,753
+INFO Site accessed from unknown at  2019-05-28 15:51:25,628
+INFO Site accessed from unknown at  2019-05-28 15:51:41,499
+INFO Site accessed from unknown at  2019-05-28 15:51:57,258
+INFO Site accessed from unknown at  2019-05-28 15:52:13,226
+INFO Site accessed from unknown at  2019-05-28 15:52:29,106
+INFO Site accessed from unknown at  2019-05-28 15:52:45,043
+INFO Site accessed from unknown at  2019-05-28 15:53:00,996
+INFO Site accessed from unknown at  2019-05-28 15:53:17,047
+INFO Site accessed from unknown at  2019-05-28 15:53:32,923
+INFO Site accessed from unknown at  2019-05-28 15:53:48,743
+INFO Site accessed from unknown at  2019-05-28 15:54:04,706
+INFO Site accessed from unknown at  2019-05-28 15:54:20,553
+INFO Site accessed from unknown at  2019-05-28 15:54:36,363
+INFO Site accessed from unknown at  2019-05-28 15:54:52,486
+INFO Site accessed from unknown at  2019-05-28 15:55:08,423
+INFO Site accessed from unknown at  2019-05-28 15:55:24,363
+INFO Site accessed from unknown at  2019-05-28 15:55:40,283
+INFO Site accessed from unknown at  2019-05-28 15:55:55,983
+INFO Site accessed from unknown at  2019-05-28 15:56:11,966
+INFO Site accessed from unknown at  2019-05-28 15:56:27,998
+INFO Site accessed from unknown at  2019-05-28 15:56:43,834
+INFO Site accessed from unknown at  2019-05-28 15:56:59,636
+INFO Site accessed from unknown at  2019-05-28 15:57:15,286
+INFO Site accessed from unknown at  2019-05-28 15:57:31,023
+INFO Site accessed from unknown at  2019-05-28 15:57:46,833
+INFO Site accessed from unknown at  2019-05-28 15:58:02,663
+INFO Site accessed from unknown at  2019-05-28 15:58:18,543
+INFO Site accessed from unknown at  2019-05-28 15:58:34,396
+INFO Site accessed from unknown at  2019-05-28 15:58:50,153
+INFO Site accessed from unknown at  2019-05-28 15:59:06,006
+INFO Site accessed from unknown at  2019-05-28 15:59:21,773
+INFO Site accessed from unknown at  2019-05-28 15:59:37,533
+INFO Site accessed from unknown at  2019-05-28 15:59:53,506
+INFO Site accessed from unknown at  2019-05-28 16:00:09,346
+INFO Site accessed from unknown at  2019-05-28 16:00:25,356
+INFO Site accessed from unknown at  2019-05-28 16:00:41,753
+INFO Site accessed from unknown at  2019-05-28 16:00:57,626
+INFO Site accessed from unknown at  2019-05-28 16:01:13,467
+INFO Site accessed from unknown at  2019-05-28 16:01:29,343
+INFO Site accessed from unknown at  2019-05-28 16:01:45,117
+INFO Site accessed from unknown at  2019-05-28 16:02:00,903
+INFO Site accessed from unknown at  2019-05-28 16:02:16,603
+INFO Site accessed from unknown at  2019-05-28 16:02:32,517
+INFO Site accessed from unknown at  2019-05-28 16:02:48,346
+INFO Site accessed from unknown at  2019-05-28 16:03:04,093
+INFO Site accessed from unknown at  2019-05-28 16:03:26,173
+INFO Site accessed from unknown at  2019-05-28 16:03:42,073
+INFO Site accessed from unknown at  2019-05-28 16:03:58,037
+INFO Site accessed from unknown at  2019-05-28 16:04:13,943
+INFO Site accessed from unknown at  2019-05-28 16:04:29,856
+INFO Site accessed from unknown at  2019-05-28 16:04:45,733
+INFO Site accessed from unknown at  2019-05-28 16:05:01,454
+INFO Site accessed from unknown at  2019-05-28 16:05:17,381
+INFO Site accessed from unknown at  2019-05-28 16:05:33,226
+INFO Site accessed from unknown at  2019-05-28 16:05:49,093
+INFO Site accessed from unknown at  2019-05-28 16:06:04,976
+INFO Site accessed from unknown at  2019-05-28 16:06:20,886
+INFO Site accessed from unknown at  2019-05-28 16:06:36,766
+INFO Site accessed from unknown at  2019-05-28 16:06:52,613
+INFO Site accessed from unknown at  2019-05-28 16:07:08,563
+INFO Site accessed from unknown at  2019-05-28 16:07:24,507
+INFO Site accessed from unknown at  2019-05-28 16:07:40,353
+INFO Site accessed from unknown at  2019-05-28 16:07:56,183
+INFO Site accessed from unknown at  2019-05-28 16:08:12,033
+INFO Site accessed from unknown at  2019-05-28 16:08:28,007
+INFO Site accessed from unknown at  2019-05-28 16:08:43,733
+INFO Site accessed from unknown at  2019-05-28 16:08:59,666
+INFO Site accessed from unknown at  2019-05-28 16:09:15,499
+INFO Site accessed from unknown at  2019-05-28 16:09:31,337
+INFO Site accessed from unknown at  2019-05-28 16:09:47,134
+INFO Site accessed from unknown at  2019-05-28 16:10:02,943
+INFO Site accessed from unknown at  2019-05-28 16:10:18,838
+INFO Site accessed from unknown at  2019-05-28 16:10:34,616
+INFO Site accessed from unknown at  2019-05-28 16:10:50,538
+INFO Site accessed from unknown at  2019-05-28 16:11:08,593
+INFO Site accessed from unknown at  2019-05-28 16:11:24,272
+INFO Site accessed from unknown at  2019-05-28 16:11:42,762
+INFO Site accessed from unknown at  2019-05-28 16:11:58,554
+INFO Site accessed from unknown at  2019-05-28 16:12:14,383
+INFO Site accessed from unknown at  2019-05-28 16:12:31,114
+INFO Site accessed from unknown at  2019-05-28 16:12:46,863
+INFO Site accessed from unknown at  2019-05-28 16:13:06,457
+INFO Site accessed from unknown at  2019-05-28 16:13:22,293
+INFO Site accessed from unknown at  2019-05-28 16:13:38,143
+INFO Site accessed from unknown at  2019-05-28 16:13:54,052
+INFO Site accessed from unknown at  2019-05-28 16:14:09,883
+INFO Site accessed from unknown at  2019-05-28 16:14:25,616
+INFO Site accessed from unknown at  2019-05-28 16:14:41,423
+INFO Site accessed from unknown at  2019-05-28 16:14:57,306
+INFO Site accessed from unknown at  2019-05-28 16:15:13,583
+INFO Site accessed from unknown at  2019-05-28 16:15:29,408
+INFO Site accessed from unknown at  2019-05-28 16:15:45,336
+INFO Site accessed from unknown at  2019-05-28 16:16:01,234
+INFO Site accessed from unknown at  2019-05-28 16:16:16,998
+INFO Site accessed from unknown at  2019-05-28 16:16:32,888
+INFO Site accessed from unknown at  2019-05-28 16:16:48,724
+INFO Site accessed from unknown at  2019-05-28 16:17:04,674
+INFO Site accessed from unknown at  2019-05-28 16:17:20,744
+INFO Site accessed from unknown at  2019-05-28 16:17:36,738
+INFO Site accessed from 10.20.4.93 at  2019-05-28 16:17:44,673
+INFO Site accessed from unknown at  2019-05-28 16:17:52,524
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-28 16:17:59,873
+INFO Site accessed from unknown at  2019-05-28 16:18:08,396
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-28 16:18:13,658
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-28 16:18:19,324
+INFO Site accessed from unknown at  2019-05-28 16:18:24,364
+INFO rat logged out from 10.20.4.93 at  2019-05-28 16:18:33,832
+INFO Site accessed from 10.20.4.93 at  2019-05-28 16:18:39,523
+INFO Site accessed from unknown at  2019-05-28 16:18:40,343
+INFO Site accessed from 10.20.4.93 at  2019-05-28 16:18:55,303
+INFO Site accessed from unknown at  2019-05-28 16:18:56,273
+INFO Site accessed from 10.20.4.93 at  2019-05-28 16:19:11,063
+INFO Site accessed from unknown at  2019-05-28 16:19:12,033
+INFO Site accessed from 10.20.4.93 at  2019-05-28 16:19:26,783
+INFO Site accessed from unknown at  2019-05-28 16:19:27,764
+INFO Site accessed from unknown at  2019-05-28 16:19:43,823
+INFO Site accessed from unknown at  2019-05-28 16:19:54,178
+INFO Site accessed from unknown at  2019-05-28 16:19:59,603
+INFO Site accessed from unknown at  2019-05-28 16:20:10,527
+INFO Site accessed from unknown at  2019-05-28 16:20:15,365
+INFO Site accessed from unknown at  2019-05-28 16:20:26,183
+INFO Site accessed from unknown at  2019-05-28 16:20:31,130
+INFO Site accessed from unknown at  2019-05-28 16:20:41,906
+INFO Site accessed from unknown at  2019-05-28 16:20:46,878
+INFO Site accessed from unknown at  2019-05-28 16:20:57,857
+INFO Site accessed from unknown at  2019-05-28 16:21:02,844
+INFO Site accessed from unknown at  2019-05-28 16:21:13,653
+INFO Site accessed from unknown at  2019-05-28 16:21:18,684
+INFO Site accessed from unknown at  2019-05-28 16:21:34,438
+INFO Site accessed from unknown at  2019-05-28 16:21:50,106
+INFO Site accessed from unknown at  2019-05-28 16:22:06,154
+INFO Site accessed from unknown at  2019-05-28 16:22:22,116
+INFO Site accessed from unknown at  2019-05-28 16:22:38,017
+INFO Site accessed from unknown at  2019-05-28 16:22:53,886
+INFO Site accessed from unknown at  2019-05-28 16:23:09,844
+INFO Site accessed from unknown at  2019-05-28 16:23:25,778
+INFO Site accessed from unknown at  2019-05-28 16:23:41,873
+INFO Site accessed from unknown at  2019-05-28 16:23:57,726
+INFO Site accessed from unknown at  2019-05-28 16:24:14,073
+INFO Site accessed from unknown at  2019-05-28 16:24:29,947
+INFO Site accessed from unknown at  2019-05-28 16:24:45,747
+INFO Site accessed from unknown at  2019-05-28 16:25:01,746
+INFO Site accessed from unknown at  2019-05-28 16:25:17,894
+INFO Site accessed from unknown at  2019-05-28 16:25:33,748
+INFO Site accessed from unknown at  2019-05-28 16:25:49,624
+INFO Site accessed from unknown at  2019-05-28 16:26:05,613
+INFO Site accessed from unknown at  2019-05-28 16:26:21,526
+INFO Site accessed from unknown at  2019-05-28 16:26:37,643
+INFO Site accessed from unknown at  2019-05-28 16:26:53,503
+INFO Site accessed from unknown at  2019-05-28 16:27:09,356
+INFO Site accessed from unknown at  2019-05-28 16:27:25,053
+INFO Site accessed from unknown at  2019-05-28 16:27:41,006
+INFO Site accessed from unknown at  2019-05-28 16:27:56,983
+INFO Site accessed from unknown at  2019-05-28 16:28:12,857
+INFO Site accessed from unknown at  2019-05-28 16:28:28,726
+INFO Site accessed from unknown at  2019-05-28 16:28:44,483
+INFO Site accessed from unknown at  2019-05-28 16:29:00,344
+INFO Site accessed from unknown at  2019-05-28 16:29:16,213
+INFO Site accessed from unknown at  2019-05-28 16:29:32,083
+INFO Site accessed from unknown at  2019-05-28 16:29:47,843
+INFO Site accessed from unknown at  2019-05-28 16:30:03,666
+INFO Site accessed from unknown at  2019-05-28 16:30:19,523
+INFO Site accessed from unknown at  2019-05-28 16:30:35,336
+INFO Site accessed from unknown at  2019-05-28 16:30:51,184
+INFO Site accessed from unknown at  2019-05-28 16:31:07,106
+INFO Site accessed from unknown at  2019-05-28 16:31:23,093
+INFO Site accessed from unknown at  2019-05-28 16:31:38,816
+INFO Site accessed from unknown at  2019-05-28 16:31:54,626
+INFO Site accessed from unknown at  2019-05-28 16:32:10,513
+INFO Site accessed from unknown at  2019-05-28 16:32:26,336
+INFO Site accessed from unknown at  2019-05-28 16:32:42,262
+INFO Site accessed from unknown at  2019-05-28 16:32:58,093
+INFO Site accessed from unknown at  2019-05-28 16:33:13,972
+INFO Site accessed from unknown at  2019-05-28 16:33:29,812
+INFO Site accessed from unknown at  2019-05-28 16:33:45,743
+INFO Site accessed from unknown at  2019-05-28 16:34:01,622
+INFO Site accessed from unknown at  2019-05-28 16:34:17,543
+INFO Site accessed from unknown at  2019-05-28 16:34:33,407
+INFO Site accessed from unknown at  2019-05-28 16:34:49,136
+INFO Site accessed from unknown at  2019-05-28 16:35:04,846
+INFO Site accessed from unknown at  2019-05-28 16:35:20,652
+INFO Site accessed from unknown at  2019-05-28 16:35:36,543
+INFO Site accessed from unknown at  2019-05-28 16:35:52,567
+INFO Site accessed from unknown at  2019-05-28 16:36:08,503
+INFO Site accessed from unknown at  2019-05-28 16:36:24,283
+INFO Site accessed from unknown at  2019-05-28 16:36:40,086
+INFO Site accessed from unknown at  2019-05-28 16:36:55,983
+INFO Site accessed from unknown at  2019-05-28 16:37:11,767
+INFO Site accessed from unknown at  2019-05-28 16:37:27,682
+INFO Site accessed from unknown at  2019-05-28 16:37:43,482
+INFO Site accessed from unknown at  2019-05-28 16:37:59,383
+INFO Site accessed from unknown at  2019-05-28 16:38:15,286
+INFO Site accessed from unknown at  2019-05-28 16:38:31,396
+INFO Site accessed from unknown at  2019-05-28 16:38:47,174
+INFO Site accessed from unknown at  2019-05-28 16:39:03,023
+INFO Site accessed from unknown at  2019-05-28 16:39:18,907
+INFO Site accessed from unknown at  2019-05-28 16:39:34,773
+INFO Site accessed from unknown at  2019-05-28 16:39:50,696
+INFO Site accessed from unknown at  2019-05-28 16:40:06,404
+INFO Site accessed from unknown at  2019-05-28 16:40:22,374
+INFO Site accessed from unknown at  2019-05-28 16:40:38,244
+INFO Site accessed from unknown at  2019-05-28 16:40:54,064
+INFO Site accessed from unknown at  2019-05-28 16:41:10,028
+INFO Site accessed from unknown at  2019-05-28 16:41:26,166
+INFO Site accessed from unknown at  2019-05-28 16:41:42,326
+INFO Site accessed from unknown at  2019-05-28 16:41:58,193
+INFO Site accessed from unknown at  2019-05-28 16:42:14,036
+INFO Site accessed from unknown at  2019-05-28 16:42:29,903
+INFO Site accessed from unknown at  2019-05-28 16:42:45,833
+INFO Site accessed from unknown at  2019-05-28 16:43:01,646
+INFO Site accessed from unknown at  2019-05-28 16:43:18,972
+INFO Site accessed from unknown at  2019-05-28 16:43:34,936
+INFO Site accessed from unknown at  2019-05-28 16:43:50,763
+INFO Site accessed from unknown at  2019-05-28 16:44:06,626
+INFO Site accessed from unknown at  2019-05-28 16:44:22,467
+INFO Site accessed from unknown at  2019-05-28 16:44:38,336
+INFO Site accessed from unknown at  2019-05-28 16:44:54,203
+INFO Site accessed from unknown at  2019-05-28 16:45:09,924
+INFO Site accessed from unknown at  2019-05-28 16:45:25,926
+INFO Site accessed from unknown at  2019-05-28 16:45:41,706
+INFO Site accessed from unknown at  2019-05-28 16:45:57,693
+INFO Site accessed from unknown at  2019-05-28 16:46:13,503
+INFO Site accessed from unknown at  2019-05-28 16:46:29,194
+INFO Site accessed from unknown at  2019-05-28 16:46:45,069
+INFO Site accessed from unknown at  2019-05-28 16:47:01,017
+INFO Site accessed from unknown at  2019-05-28 16:47:17,013
+INFO Site accessed from unknown at  2019-05-28 16:47:32,876
+INFO Site accessed from unknown at  2019-05-28 16:47:48,773
+INFO Site accessed from unknown at  2019-05-28 16:48:04,636
+INFO Site accessed from unknown at  2019-05-28 16:48:20,643
+INFO Site accessed from unknown at  2019-05-28 16:48:36,436
+INFO Site accessed from unknown at  2019-05-28 16:48:52,457
+INFO Site accessed from unknown at  2019-05-28 16:49:08,266
+INFO Site accessed from unknown at  2019-05-28 16:49:24,083
+INFO Site accessed from unknown at  2019-05-28 16:49:40,003
+INFO Site accessed from unknown at  2019-05-28 16:49:55,833
+INFO Site accessed from unknown at  2019-05-28 16:50:11,713
+INFO Site accessed from unknown at  2019-05-28 16:50:27,598
+INFO Site accessed from unknown at  2019-05-28 16:50:43,593
+INFO Site accessed from unknown at  2019-05-28 16:50:59,616
+INFO Site accessed from unknown at  2019-05-28 16:51:15,456
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-29 10:03:21,598
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-29 10:03:36,931
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-29 10:07:29,888
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-29 10:10:26,474
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-29 10:14:01,259
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-29 10:14:17,620
+CRITICAL An exception of type FieldError occurred. Arguments:
+("Cannot resolve keyword 'name' into field. Choices are: id, lastlogin, password, user",) on 10.20.4.93 at  2019-05-29 10:14:36,701
+INFO rat logged out from 10.20.4.93 at  2019-05-29 10:33:10,139
+INFO Site accessed from 10.20.4.93 at  2019-05-29 10:33:18,496
+INFO Site accessed from 10.20.4.93 at  2019-05-29 10:33:34,503
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:01:43,953
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:01:52,787
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:02:01,303
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:02:31,273
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-29 11:02:48,076
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:15:09,807
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:15:22,779
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-29 11:15:41,823
+INFO ss was added to cluster by rat from 10.20.4.93 at  2019-05-29 11:16:12,798
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:16:21,203
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:16:37,243
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:17:06,894
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:24:06,494
+CRITICAL rat tried loging in as admin from 10.20.4.93 at  2019-05-29 11:24:19,920
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-29 11:24:28,570
+INFO s7 was added to cluster by rat from 10.20.4.93 at  2019-05-29 11:24:39,375
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:24:48,234
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-29 11:25:45,754
+INFO s7 was removed from cluster by rat from 10.20.4.93 at  2019-05-29 11:26:12,789
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:26:20,042
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:26:36,053
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:26:52,163
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:28:10,533
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:28:12,377
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:28:28,667
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-29 11:28:30,848
+INFO rat logged out from 10.20.4.93 at  2019-05-29 11:33:10,084
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:33:17,283
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:33:36,843
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:33:54,297
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:34:10,724
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:34:26,936
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:34:43,086
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:35:00,543
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:35:16,873
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:35:33,213
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:35:49,293
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:36:05,466
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:36:21,863
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:36:38,148
+INFO Site accessed from 10.20.4.93 at  2019-05-29 11:36:54,463
+INFO pi logged in from 10.20.4.93 at  2019-05-29 11:37:02,834
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'ncpnode' is not defined",) on 10.20.4.93 at  2019-05-29 11:37:47,095
+CRITICAL An exception of type MultiValueDictKeyError occurred. Arguments:
+('csr',) on 10.20.4.93 at  2019-05-29 11:38:36,929
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'inpath' is not defined",) on 10.20.4.93 at  2019-05-29 11:59:46,246
+INFO pi submitted job number Submitted batch job 318
+ from 10.20.4.93 at  2019-05-29 12:00:46,013
+INFO pi logged out from 10.20.4.93 at  2019-05-29 12:02:38,530
+INFO Site accessed from 10.20.4.93 at  2019-05-29 12:02:44,328
+INFO Site accessed from 10.20.4.93 at  2019-05-29 12:03:00,613
+INFO Site accessed from 10.20.4.93 at  2019-05-29 12:03:54,774
+INFO pi logged in from 10.20.4.93 at  2019-05-29 12:04:02,594
+CRITICAL An exception of type MultiValueDictKeyError occurred. Arguments:
+('Queue',) on 10.20.4.93 at  2019-05-29 12:04:28,304
+CRITICAL An exception of type MultiValueDictKeyError occurred. Arguments:
+('Queue',) on 10.20.4.93 at  2019-05-29 12:04:37,830
+CRITICAL An exception of type MultiValueDictKeyError occurred. Arguments:
+('ipfile',) on 10.20.4.93 at  2019-05-29 12:04:58,926
+WARNING pi submitted job from 10.20.4.93 at  2019-05-29 12:05:20,270
+CRITICAL An exception of type MultiValueDictKeyError occurred. Arguments:
+('ipfile',) on 10.20.4.93 at  2019-05-29 12:05:50,291
+INFO pi logged out from 10.20.4.93 at  2019-05-29 12:06:27,979
+INFO Site accessed from 10.20.4.93 at  2019-05-29 12:06:33,686
+INFO Site accessed from 10.20.4.93 at  2019-05-29 12:09:41,184
+INFO pi logged in from 10.20.4.93 at  2019-05-29 12:09:53,633
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'ncpnode' is not defined",) on 10.20.4.93 at  2019-05-29 12:10:22,329
+INFO Site accessed from 10.20.4.93 at  2019-05-29 15:16:02,286
+INFO pi logged in from 10.20.4.93 at  2019-05-29 15:16:22,796
+CRITICAL An exception of type MultiValueDictKeyError occurred. Arguments:
+('csr',) on 10.20.4.93 at  2019-05-29 15:18:18,937
+INFO pi submitted job number Submitted batch job 319
+ from 10.20.4.93 at  2019-05-29 15:19:28,998
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'inpath' is not defined",) on 10.20.4.93 at  2019-05-29 15:20:09,032
+CRITICAL An exception of type NameError occurred. Arguments:
+("name 'inpath' is not defined",) on 10.20.4.93 at  2019-05-29 15:20:13,114
+INFO pi submitted job number Submitted batch job 321
+ from 10.20.4.93 at  2019-05-29 15:22:45,887
+WARNING pi submitted job from 10.20.4.93 at  2019-05-29 15:23:18,392
+INFO pi logged in from 10.20.4.93 at  2019-05-29 15:23:26,726
+WARNING pi submitted job from 10.20.4.93 at  2019-05-29 15:23:53,732
+WARNING pi submitted job from 10.20.4.93 at  2019-05-29 15:24:18,518
+WARNING pi submitted job from 10.20.4.93 at  2019-05-29 15:25:43,995
+INFO pi submitted job number Submitted batch job 323
+ from 10.20.4.93 at  2019-05-29 15:39:04,826
+INFO Site accessed from 10.20.4.93 at  2019-05-29 15:54:36,873
+INFO pi logged in from 10.20.4.93 at  2019-05-29 15:54:49,430
+INFO pi logged out from 10.20.4.93 at  2019-05-29 15:59:20,239
+INFO Site accessed from 10.20.4.93 at  2019-05-29 15:59:25,986
+INFO Site accessed from 10.20.4.93 at  2019-05-29 15:59:42,086
+INFO Site accessed from 10.20.4.93 at  2019-05-29 15:59:59,157
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:00:15,443
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:00:31,587
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:00:47,553
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:01:03,436
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:01:19,536
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:01:35,593
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:01:51,717
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:02:29,074
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:02:45,313
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:05:31,967
+INFO pi logged in from 10.20.4.93 at  2019-05-29 16:05:42,146
+INFO pi logged out from 10.20.4.93 at  2019-05-29 16:06:16,616
+INFO Site accessed from 10.20.4.93 at  2019-05-29 16:06:22,384
+INFO Site accessed from unknown at  2019-05-29 16:06:56,059
+INFO pi logged in from unknown at  2019-05-29 16:07:11,746
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:11:55,778
+INFO pi logged in from 10.20.4.93 at  2019-05-29 17:12:04,204
+INFO pi logged out from 10.20.4.93 at  2019-05-29 17:24:00,791
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:24:06,373
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:24:42,103
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:24:58,454
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:25:14,883
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:25:30,773
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:25:46,574
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:26:02,533
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:26:18,453
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:26:34,188
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:26:50,239
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:27:06,048
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:27:21,869
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:27:37,744
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:27:53,723
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:28:09,737
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:28:25,724
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:28:41,494
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:28:57,444
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:29:06,447
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:29:22,247
+INFO Site accessed from 10.20.4.93 at  2019-05-29 17:29:38,204
+INFO Site accessed from 10.20.4.93 at  2019-05-30 12:06:59,307
+INFO pi logged in from 10.20.4.93 at  2019-05-30 12:07:10,494
+WARNING pi submitted job from 10.20.4.93 at  2019-05-30 12:08:00,886
+INFO pi logged out from 10.20.4.93 at  2019-05-30 12:23:26,760
+INFO Site accessed from 10.20.4.93 at  2019-05-30 12:23:36,246
+INFO pi logged in from 10.20.4.93 at  2019-05-30 12:23:42,658
+WARNING pi submitted job from 10.20.4.93 at  2019-05-30 12:24:02,100
+WARNING pi submitted job from 10.20.4.93 at  2019-05-30 12:36:06,953
+INFO pi logged out from 10.20.4.93 at  2019-05-30 12:40:33,778
+INFO Site accessed from 10.20.4.93 at  2019-05-30 12:40:39,457
+INFO pi logged in from 10.20.4.93 at  2019-05-30 12:40:55,219
+INFO Site accessed from 10.20.4.93 at  2019-05-30 12:40:55,453
+WARNING pi submitted job from 10.20.4.93 at  2019-05-30 12:41:08,898
+WARNING pi submitted job from 10.20.4.93 at  2019-05-30 12:42:03,884
+INFO pi logged in from 10.20.4.93 at  2019-05-30 12:55:20,801
+INFO pi submitted job number Submitted batch job 323
+ from 10.20.4.93 at  2019-05-30 12:56:01,996
+INFO pi submitted job number Submitted batch job 323
+ from 10.20.4.93 at  2019-05-30 12:57:45,454
+INFO pi logged out from 10.20.4.93 at  2019-05-30 13:05:58,644
+INFO Site accessed from 10.20.4.93 at  2019-05-30 13:06:04,526
+INFO pi logged in from 10.20.4.93 at  2019-05-30 13:06:12,123
+INFO pi submitted job number Submitted batch job 325
+ from 10.20.4.93 at  2019-05-30 13:07:10,209
+INFO pi submitted job number Submitted batch job 325
+ from 10.20.4.93 at  2019-05-30 13:11:51,473
+INFO pi submitted job number Submitted batch job 325
+ from 10.20.4.93 at  2019-05-30 13:14:54,008
+INFO pi logged out from 10.20.4.93 at  2019-05-30 13:24:02,630
+INFO Site accessed from 10.20.4.93 at  2019-05-30 13:24:08,566
+INFO pi logged in from 10.20.4.93 at  2019-05-30 13:24:14,412
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-30 13:25:03,061
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-30 13:25:13,650
+CRITICAL An exception of type FileNotFoundError occurred. Arguments:
+(2, 'No such file or directory') on 10.20.4.93 at  2019-05-30 13:26:49,933
+INFO pi submitted job number Submitted batch job 330
+ from 10.20.4.93 at  2019-05-30 13:28:49,732
+INFO pi submitted job number Submitted batch job 331
+ from 10.20.4.93 at  2019-05-30 13:35:41,061
+INFO pi submitted job number Submitted batch job 332
+ from 10.20.4.93 at  2019-05-30 13:49:12,118
+INFO pi submitted job number Submitted batch job 336
+ from 10.20.4.93 at  2019-05-30 14:00:25,373
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:25:35,577
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:25:52,053
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:26:07,887
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:26:23,817
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:26:39,928
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:26:56,126
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:27:12,293
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:27:28,633
+INFO pi logged in from 10.20.4.36 at  2019-05-30 15:27:45,417
+INFO pi logged out from 10.20.4.36 at  2019-05-30 15:28:56,632
+INFO Site accessed from 10.20.4.36 at  2019-05-30 15:29:02,704
+INFO pi logged in from 10.20.4.36 at  2019-05-30 15:29:17,815
+INFO pi submitted job number Submitted batch job 349
+ from 10.20.4.36 at  2019-05-30 15:32:53,421
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:16:24,104
+INFO pi logged in from 10.20.4.93 at  2019-05-30 16:16:34,396
+INFO pi submitted job number Submitted batch job 350
+ from 10.20.4.93 at  2019-05-30 16:18:09,352
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:27:19,373
+INFO pi logged in from 10.20.4.93 at  2019-05-30 16:27:27,553
+INFO pi submitted job number Submitted batch job 351
+ from 10.20.4.93 at  2019-05-30 16:28:34,971
+INFO pi logged out from 10.20.4.93 at  2019-05-30 16:40:03,953
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:40:10,703
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:40:26,517
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:40:43,353
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:40:59,443
+INFO pi logged in from 10.20.4.93 at  2019-05-30 16:41:03,394
+INFO pi logged out from 10.20.4.93 at  2019-05-30 16:45:11,679
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:45:17,516
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:46:18,843
+INFO rat logged in as admin from 10.20.4.93 at  2019-05-30 16:46:51,663
+INFO rat logged out from 10.20.4.93 at  2019-05-30 16:46:54,954
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:47:00,748
+INFO pi logged in from 10.20.4.93 at  2019-05-30 16:47:07,040
+INFO pi logged out from 10.20.4.93 at  2019-05-30 16:47:22,075
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:47:27,667
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:47:43,607
+INFO Site accessed from 10.20.4.93 at  2019-05-30 16:48:00,209
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:04:19,594
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:04:37,322
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:06:27,046
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:06:45,430
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:07:03,489
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:07:21,398
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:46:05,099
+INFO pi logged in from 10.20.4.93 at  2019-05-30 17:46:40,267
+INFO pi logged out from 10.20.4.93 at  2019-05-30 17:46:56,312
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:47:06,975
+INFO Site accessed from 10.20.4.93 at  2019-05-30 17:47:25,444
+INFO Site accessed from 10.20.4.93 at  2019-05-30 22:00:21,714
+INFO pi logged in from 10.20.4.93 at  2019-05-30 22:00:38,652
+INFO pi submitted job number Submitted batch job 352
+ from 10.20.4.93 at  2019-05-30 22:01:27,586
+INFO pi logged out from 10.20.4.93 at  2019-05-30 22:02:59,436
+INFO Site accessed from 10.20.4.93 at  2019-05-30 22:03:07,181

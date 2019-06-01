@@ -1,0 +1,66 @@
+{% load staticfiles %}
+<!-- load static files is used to load the contents of a site which remain static (favicon, background-image, etc.) -->
+<!-- Admin login page. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DOR-JoSuSy</title>
+  <meta charset="utf-8">
+  <!--<meta http-equiv="refresh" content="5" >-->
+  <link rel="shortcut icon" type="image/png" href="{% static 'images/ipr_logo.png' %}"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+  .fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  </style>
+
+</head>
+<body style="text-align:center; background-image: url('{% static 'images/b2.jpg' %}'); background-repeat: no-repeat; background-attachment: fixed;" >
+<div class="jumbotron text-center" style="margin-bottom:0;  background-image: url('{% static 'images/c8.png' %}');">
+
+  <h1 style="color:white;"><b>DOR-JoSuSy</b></h1>
+  <h4>Welcome to HPC Job Submission System</h4>
+</div>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="{% url 'index' %}">HOME</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+</br></br></br>
+
+<div style="margin-left:25%; margin-right:25%; background-color: #ffffff; border: 2px solid black; opacity: 0.6; filter: alpha(opacity=60); border-radius:50px; ">
+</br>
+  <h1 style="font-family:Consolas;">ADMIN-LOGIN</h1></br>
+  <form method="post" action="" style=" font-weight: bold; color: #000000;">
+    <!-- form1 is refrenced from views.py containing auser_login function. as_p is used to represent form as paragraph  -->
+    <!-- csrf_token is a kind of bot-catcher. -->
+    {% csrf_token %}
+    {{ form3.as_p }}
+    <input type="submit" class="btn btn-primary btn-lg" style="border-radius:30px" name="" value="LOGIN" />
+  </form>
+</br>
+</div>
+</div>
+</br></br></br></br></br></br></br></br>
+
+<div class="jumbotron text-center" style="margin-bottom:0px;">
+<p style="font-size:small" >Copy Rights to DOR-JoSuSy </p>
+</div>
+
+
+</body>
+</html>

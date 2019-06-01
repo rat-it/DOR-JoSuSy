@@ -1,0 +1,105 @@
+{% extends "josusy_app/base.html" %}
+{% block body_block %}
+
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- This page is used for user to submitting job using SLURM scheduler in sequential order and the executable file is on Cluster. -->
+<div class="row">
+<div class="jumbotron">
+
+  <form action="" method="post" enctype="multipart/form-data" >
+    <!-- form1 is refrenced from views.py containing SSC function. as_p is used to represent form as paragraph  -->
+    <!-- csrf_token is a kind of bot-catcher. -->
+    {{ form12.as_p }}
+    {% csrf_token %}
+    Walltime: <input type="number" name="hour" required placeholder="Hours" min="0" title="Hours for which your process should stay on the cluster!" style="width:20%" /> &nbsp  &nbsp &nbsp &nbsp
+              <input type="number" name="min" required placeholder="Minutes" min="0" max="60"  title="Minutes for which your process should stay on the cluster!" style="width:20%" /> </br></br>
+    Executable file : <input type="text" name="myfile" placeholder="Path of executable file on cluster" required /> </br></br>
+    
+
+    <a href="{% url 'SelectSubmissionType' %}"><button type="button" class="btn btn-outline-success">< Back</button></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+    <input type="submit" name="submit" value="Submit" class="btn btn-primary" />
+
+  </form>
+</div>
+<div class="col-sm-4">
+  <ul class="nav nav-pills flex-column">
+  <li class="nav-item">
+    <label class="nav-link active" >Cluster Node Status</label>
+  </li>
+  </ul>
+  <script>
+    //For creating buttons which displays node status of cluster.
+    document.write("<table style=\"position: absolute; top:10%; left:30%; border-spacing:5px; \" >");
+    var count =0;
+    for(var i=0;i<1;i++){
+      document.write("<tr>");
+      for(var j=0; j<3; j++){
+        document.write("<td> <button type=\"button\" title=\"\" class=\"addMore\" name=\""+count+++"\" style=\"border-radius:50%; border:0px; width:50px; height:50px\"></button> </td> ");
+      }
+      document.write("</tr>");
+    }
+
+    var b = {{a}}
+    var ts = [1,1,1]
+    //Activity status vice color allocation
+
+    if(b[0]==0){
+      for(var i=0; i<4; i++){
+          Array.from(document.getElementsByName(i)).map(function(button) {
+             button.style.backgroundColor="red";
+             button.title="Node is Down";
+          })
+        }
+    }
+    else{
+      var len = b.length;
+      for(var i=0; i<len; i++){
+        var  index = b[i];
+        for(var j=1; j<=3; j++){
+	  if(ts[j-1]==1)
+	  {
+          	if(j==index){
+            	ts[j-1]=0;
+          	}
+          	else{
+            	ts[j-1]=1;
+         	 }
+	  }
+        }
+      }
+    }
+    //28 ni jagya ae length of array fetched from deactivated nodes
+    for(var i=0; i<3; i++){
+      if(ts[i]==0){
+        Array.from(document.getElementsByName(i)).map(function(button) {
+           button.style.backgroundColor="red";
+           button.title="Node is Down ";
+        })
+      }
+      else if(ts[i]==1){
+        Array.from(document.getElementsByName(i)).map(function(button) {
+           button.style.backgroundColor="green";
+           button.title="Avilable";
+        })
+      }
+      else{
+        Array.from(document.getElementsByName(i)).map(function(button) {
+           button.style.backgroundColor="green";
+           button.title="Available";
+        })
+      }
+    }
+
+  </script>
+</br></br></br></br>
+<ul class="nav nav-pills flex-column">
+<li class="nav-item">
+  <label class="nav-link active" >My Paths</label>
+</li>
+</ul>
+{{file_con}}
+</div>
+</div>
+
+</div>
+{% endblock %}

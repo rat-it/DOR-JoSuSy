@@ -1,0 +1,11 @@
+{% extends "josusy_app/abase.html" %}
+{% block body_block %}
+<!-- In order to include a base template above mentioned Django code is used. -->
+<!-- This page is used to view Django logs in admin side. -->
+    <div class="jumbotron" style="overflow:auto;">
+      <table>
+        <!-- file_content is refrenced from views.py containing AdminLogV function. escape,linebreaks is used to represent content in well structured format. -->
+        {{file_content|escape|linebreaks}}
+      </table>
+    </div>
+{% endblock %}

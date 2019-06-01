@@ -1,0 +1,57 @@
+{% load staticfiles %}
+<!-- Base template that is inherited by mostly all user side templates -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DOR-JoSuSy</title>
+  <meta charset="utf-8">
+  <!--<meta http-equiv="refresh" content="5" >-->
+  <link rel="shortcut icon" type="image/png" href="{% static 'images/ipr_logo.png' %}"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+  .fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  </style>
+
+</head>
+<body style="text-align:center; background-image: url('{% static 'images/b2.jpg' %}'); background-repeat: no-repeat; background-attachment: fixed;" >
+<div class="jumbotron text-center" style="margin-bottom:0;  background-image: url('{% static 'images/c8.png' %}');">
+
+  <h1 style="color:white;"><b>DOR-JoSuSy</b></h1>
+  <h4>Welcome to HPC Job Submission System</h4>
+</div>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="{% url 'SelectTask' %}">HOME</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'Alogout' %}" style="margin-left:900px;">Logout</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+  <div class="container">
+</br></br></br>
+{% block body_block %}
+{% endblock %}
+</div>
+</br></br></br></br></br></br></br></br>
+
+<!--<div class="jumbotron text-center" style="margin-bottom:0px;">
+<p style="font-size:small" >Copy Rights to DOR-JoSuSy </p>
+</div>-->
+
+
+</body>
+</html>
